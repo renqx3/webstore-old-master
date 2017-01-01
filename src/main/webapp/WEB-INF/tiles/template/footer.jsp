@@ -1,0 +1,1 @@
+<p>&copy; JS&Kaptn outdoor sklep 2016</p>
